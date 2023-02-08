@@ -1,0 +1,30 @@
+{
+  "width": 20,
+  "height": 20,
+  "acrossClues": [
+    { "x": 6, "y": 6,
+      "clue": "1. Rush around in old car, to find escaped criminal in Oz (10)"
+    }, {
+      "x": 13, "y": 2,
+      "clue": "3. A disease singular to sponge (7)"
+    }, {
+      "x": 1, "y": 2,
+      "clue": "4. A disease singular to sponge (9)"
+    }
+  ],
+  "downClues": [
+    {
+      "x": 8, "y": 1,
+      "clue": "2. Auntie hit boiling asphalt (6)"
+    }, {
+      "x": 12, "y": 3,
+      "clue": "5. Told of journey to university to find poem (5)"
+    }, {
+      "x": 3, "y": 2,
+      "clue": "6. Told of journey to university to find poem (7)"
+    }, {
+      "x": 14, "y": 2,
+      "clue": "7. Told of journey to university to find poem (5)"
+    }
+  ]
+}
