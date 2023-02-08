@@ -1,0 +1,44 @@
+[
+  {
+    "answer": "hindi",
+    "startx": 11,
+    "starty": 3,
+    "orientation": "down",
+    "position": 1
+  },
+  {
+    "answer": "english",
+    "startx": 4,
+    "starty": 9,
+    "orientation": "across",
+    "position": 2
+  },
+  {
+    "answer": "maths",
+    "startx": 9,
+    "starty": 5,
+    "orientation": "down",
+    "position": 3
+  },
+  {
+    "answer": "science",
+    "startx": 7,
+    "starty": 1,
+    "orientation": "down",
+    "position": 4
+  },
+  {
+    "answer": "mechanics",
+    "startx": 1,
+    "starty": 3,
+    "orientation": "across",
+    "position": 5
+  },
+  {
+    "answer": "electrical",
+    "startx": 5,
+    "starty": 7,
+    "orientation": "across",
+    "position": 6
+  }
+]
